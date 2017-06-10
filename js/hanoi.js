@@ -71,7 +71,7 @@ ColonesMilieu.push(new EtageHanoi(999));
 ColonesDroite.push(new EtageHanoi(999));
 
 //remplisage Colone Gauche
-for(var i = 12; i != 0; i--)
+for(var i = 6; i != 0; i--)
 {
 	ColonesGauche.push(new EtageHanoi(i));
 }
